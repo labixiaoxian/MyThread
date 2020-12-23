@@ -9,6 +9,7 @@ public class Triangle {
             Triangle triangle = new Triangle();
             String resultString = triangle.makeTriangle(1, 2, 3);
             System.out.println(resultString);
+            System.out.println("===========================");
         }
 
         /**
